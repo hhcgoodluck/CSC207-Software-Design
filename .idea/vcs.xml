@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSC207 2024Fall" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSC207 2024Fall/CSC207-Git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSC207 2025Fall/CSC207-Lab1-JavaBasic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSC207 2025Fall/CSC207-Lab2-Branching-and-Merging" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSC207 2025Fall/CSC207-Lab2-Multiset-Adt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSC207 2025Fall/CSC207-Lab3-LostInTranslation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSC207 2025Fall/CSC207-Lab3-NumberTriangle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSC207 2025Fall/CSC207-Lab5-API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSC207 2025Fall/CSC207-Lab6-Fetcher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSC207 2025Fall/CSC207-Lab7-CleanArchitecture" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSC207 2025Fall/CSC207-Lab8-Refactoring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSC207 2025Fall/CSC207-Lab9-RegularExpression" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSC207-期末项目Project-FinWise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSC207-期末项目Project-RecipeGenerator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CourseNotes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/team-project" vcs="Git" />
+  </component>
+</project>
